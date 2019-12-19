@@ -1,0 +1,79 @@
+{
+    "name": "Shoeboxed",
+    "description": "The fast, easy way to turn receipts into an organized, categorized, and IRS-accepted online archive. Join the one million small businesses saving time and money with Shoeboxed.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/480-shoeboxed.jpg",
+    "tags": [
+        "accounting",
+        "bookkeeping",
+        "financial",
+        "have api",
+        "receipts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shoeboxed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Shoeboxed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/480-shoeboxed.jpg",
+            "humanURL": "http:\/\/shoeboxed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shoeboxed-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.shoeboxed.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.shoeboxed.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.shoeboxed.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/shoeboxed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/shoeboxed"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.shoeboxed.com\/v2\/explorer\/index.html"
+        },
+        {
+            "type": "Email",
+            "url": "help@team.shoeboxed.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Shoeboxed"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.shoeboxed.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/shoeboxed"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/shoeboxed.com"
+        }
+    ]
+}
